@@ -1,0 +1,5 @@
+*.log
+!vip.log
+text1.txt
+node_packs/
+ahmed12.txt
